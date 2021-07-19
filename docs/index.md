@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Ayush Yadav(Clawbhaiya)
 
-You can use the [editor on GitHub](https://github.com/clawbhaiya/clawbhaiya/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hewo! Ayush Yadav aka Clawbhaiya from India here!
+I am a high school student interested in opearting systems, kernels and programming in C/C++.
 
 ### Markdown
 
